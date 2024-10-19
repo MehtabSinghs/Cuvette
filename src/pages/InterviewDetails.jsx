@@ -58,7 +58,7 @@ async function fakeApiCall(data) {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 ><span className="bi bi-person"> </span>
-                  Your Name
+                  Mehtab Singh
                 </button>
                 <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                   <li><a className="dropdown-item" href="#">Profile</a></li>
