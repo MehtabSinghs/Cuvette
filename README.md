@@ -15,3 +15,7 @@ Main Page:-
 
 Job Creation Page:-
 ![image](https://github.com/MehtabSinghs/Cuvette/blob/main/main2.png)
+
+
+
+Hosted Link For Project:-https://mehtabsinghs.github.io/Cuvette
