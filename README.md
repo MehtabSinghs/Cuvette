@@ -1,8 +1,17 @@
-# React + Vite
+# Cuvette Assignment
+During the Cuvette assignment evaluation, I meticulously crafted a responsive job-posting website, ensuring an optimal user experience across various devices. Employing a combination of HTML, CSS,Bootstrap,Express,React and Nodejs, the site offers fluid and captivating animations integrated seamlessly into it. Employing the acclaimed Mobile First methodology, I meticulously developed the interface, guaranteeing flawless responsiveness on mobile devices, subsequently extending the same impeccable design to desktop screens. Embracing the latest web technologies, including HTML5, CSS3, and JavaScript, the website boasts a visually engaging user interface, delivering an immersive and pleasant browsing experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Some Screenshots are also attached below-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sign Up page:-
+![image](https://github.com/MehtabSinghs/Cuvette/blob/main/Home.png)
+
+Verification Page:-
+![image](https://github.com/MehtabSinghs/Cuvette/blob/main/home2.png)
+
+Main Page:-
+![image](https://github.com/MehtabSinghs/Cuvette/blob/main/main1.png)
+
+Job Creation Page:-
+![image](https://github.com/MehtabSinghs/Cuvette/blob/main/main2.png)
