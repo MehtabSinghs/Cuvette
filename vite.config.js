@@ -6,5 +6,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
-  base: 'https://mehtabsinghs.github.io/Cuvette', // Ensure this is set if deploying to GitHub Pages
+  base: '', // Ensure this is set if deploying to GitHub Pages
 });
